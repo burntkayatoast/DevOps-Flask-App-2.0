@@ -11,6 +11,7 @@ def link_doc():
 	return '''<p>This application is running on the Flask web framework.
 		<br><br>
 		<a href="https://flask.palletsprojects.com/en/stable">Link to documentation.</a>
+		<a href="https://www.python.org">Link to Python website.</a>
 		</p>'''
 
 @app.route('/contact')
