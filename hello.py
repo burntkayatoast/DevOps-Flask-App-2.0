@@ -15,5 +15,5 @@ def link_doc():
 
 @app.route('/contact')
 def contact():
-	return '''email: reneelow0205@gmail.com'''
+	return '''email: renee1ow007@gmail.com'''
 
